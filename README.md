@@ -1,0 +1,3 @@
+Web alanında kendini geliştirmek isteyenler için ufak ufak eğitimler...
+
+Bu eğitimlerin içeriği HTML, CSS, JavaScript ve PHP olacaktır.
