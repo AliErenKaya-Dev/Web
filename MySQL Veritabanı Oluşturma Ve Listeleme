@@ -1,0 +1,19 @@
+Mysql Veritabanı oluşturmak için CREATE DATABASE komutu kullanılmaktadır.
+
+Örn:
+
+Kod:
+CREATE DATABASE veritabani;
+
+Oluşturmuş olduğunuz veritabanlarını listelemek için ise SHOW DATABASES komutu kullanılmaktadır.
+
+Kod:
+SHOW DATABASES;
+
++----------------+
+| Database       |
++----------------+
+| veritabani     |
+| veritabani2    |
+| veritabani3    |
++----------------+
